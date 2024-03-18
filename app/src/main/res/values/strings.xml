@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVVM_CoroutinesApplication</string>
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+    <string name="id">Id :</string>
+    <string name="records_not_founds">Records not founds</string>
+</resources>
